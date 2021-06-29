@@ -102,7 +102,11 @@ h5, .h5 {
 /*}*/
 .blurb-classic
 {
+    padding: 12px;
     margin-bottom: 30px;
+    background-color: #f5eae9;
+    border-radius: 15px;
+    height: 300px;
 }
 .blurb-text {
    color:#5d5d66;
