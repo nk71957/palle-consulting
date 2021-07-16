@@ -242,3 +242,6 @@ content-image {
     padding-top: 20px;
     margin-top: 70px;
 }
+.text-shadow{
+    text-shadow: 3px 3px 3px #360101;
+}
